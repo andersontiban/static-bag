@@ -4,7 +4,7 @@
   "description": "Starter Code for Week 5 Day 5 Activity",
   "main": "Bag.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch-all --verbose"
   },
   "repository": {
     "type": "git",
